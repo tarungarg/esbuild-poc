@@ -3,8 +3,11 @@ esbuild react, lazy load, prod, dev, hmr
 
 
 $ npm run build
+
 $ npm run build:prd
+
 Add index.html if required
+
 $ cd prod && npx lite-server
 
 # Start dev server
