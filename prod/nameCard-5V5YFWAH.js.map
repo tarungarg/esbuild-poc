@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../components/nameCard/nameCard.tsx"],
+  "sourcesContent": ["import React from 'react';\n\nexport function NameCard() {\n  return <div>nameCard</div>;\n}\n"],
+  "mappings": ";;;;;;;AAAA,mBAAkB;AAEX,SAAS,WAAW;AACzB,SAAO,6BAAAA,QAAA,cAAC,OAAA,MAAI,UAAQ;AACtB;AAFgB,OAAA,UAAA,UAAA;",
+  "names": ["React"]
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../components/pdpCard/pdpCard.tsx"],
+  "sourcesContent": ["import React, { useEffect } from 'react';\n\nexport function PdpCard() {\n  useEffect(() => {\n    setTimeout(() => {\n      console.log('hi');\n    }, 3000);\n  }, []);\n  return <div>pdpCard</div>;\n}\n"],
+  "mappings": ";;;;;;;AAAA,mBAAiC;AAE1B,SAAS,UAAU;AACxB,8BAAU,MAAM;AACd,eAAW,MAAM;IAEjB,GAAG,GAAI;EACT,GAAG,CAAC,CAAC;AACL,SAAO,6BAAAA,QAAA,cAAC,OAAA,MAAI,SAAO;AACrB;AAPgB,OAAA,SAAA,SAAA;",
+  "names": ["React"]
+}
